@@ -14,7 +14,7 @@ A React-based CCTV monitoring dashboard with camera feed and responsive UI.
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cctv-dashboard.git
+git clone https://github.com/abimanyu2515/cctv-dashborard.git
 cd cctv-dashboard
 npm install
 npm run dev
