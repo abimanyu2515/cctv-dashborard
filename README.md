@@ -1,13 +1,6 @@
-# 📷 CCTV Dashboard
+# CCTV Dashboard
 
-A modern React-based CCTV monitoring dashboard with real-time camera feed, analytics, and responsive UI.
-
-## 🚀 Features
-
-- 📡 Real-time video streaming
-- 📊 Data analytics and visualizations
-- 🌙 Dark mode UI
-- 🧩 Modular and component-based architecture
+A React-based CCTV monitoring dashboard with camera feed and responsive UI.
 
 ## Technologies Used
 
